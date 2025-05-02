@@ -1,5 +1,8 @@
-import { Route } from 'react-router';
-import { createBrowserRouter, createRoutesFromElements } from 'react-router';
+import {
+  createBrowserRouter,
+  createRoutesFromElements,
+  Route,
+} from 'react-router-dom';
 import { AppRouterProviders } from '../components/AppRouterProviders';
 
 export const useCreateRouter = () => {

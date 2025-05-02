@@ -1,8 +1,5 @@
 {
   "name": "@auction/front",
   "version": "0.0.1",
-  "private": true,
-  "dependencies": {
-    "react-router": "^7.5.3"
-  }
+  "private": true
 }
