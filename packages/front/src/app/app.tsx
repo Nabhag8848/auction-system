@@ -1,11 +1,5 @@
-import NxWelcome from './nx-welcome';
-
 export function App() {
-  return (
-    <div>
-      <NxWelcome title="@auction/front" />
-    </div>
-  );
+  return <div></div>;
 }
 
 export default App;
